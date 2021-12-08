@@ -1,5 +1,5 @@
 # Norwegian number practice
-A norwegian version of [italian number practice](https://github.com/Dot32IsCool/italian-numbers), this time build in rust!
+A Norwegian version of [italian number practice](https://github.com/Dot32IsCool/italian-numbers), this time build in rust!
 
 <img width="697" alt="Screen Shot 2021-12-08 at 11 38 07" src="https://user-images.githubusercontent.com/61964090/145144416-9a6995f6-0604-49fd-a226-847c3961193f.png">
 
@@ -21,8 +21,8 @@ Counting to ten:
 9. ni
 10. ti
 
-Similarily to english, numbers larger than 20 are written as [ten][unit], eg fifty five. <br>
-Unlike in english however, norwegian doesnt seperate the words; fifty five would instead be fiftyfive.
+Similarily to English, numbers larger than 20 are written as [ten][unit], eg fifty five. <br>
+Unlike in English however, Norwegian doesnt seperate the words; fifty five would instead be fiftyfive.
 
 In norwegian, the tens go as such:
 20. tjue
@@ -34,8 +34,8 @@ In norwegian, the tens go as such:
 80. åtti
 90. nitti
 
-As such, you would write "55" as femtifem, "44" as førtifire, etc. Unlike in italian, no special rules are applied to "1" and "8" digits (which thankfully made this app easier to code).
+As such, you would write "55" as femtifem, "44" as førtifire, etc. Unlike in Italian, no special rules are applied to "1" and "8" digits (which thankfully made this app easier to code).
 
-Just like english and italian, the teens (10 - 20), are unique from other numbers, however at least they somewhat resemble english teens (elleve is elleven, seksten is sixteen, ect), unlike italian! 
+Just like English and Italian, the teens (10 - 20), are unique from other numbers, however at least the Norwegian teens somewhat resemble english teens (elleve is elleven, seksten is sixteen, ect), unlike Italian teens! 
 
 Build and run the project to learn 10-20 and 100!
