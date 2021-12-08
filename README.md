@@ -36,6 +36,6 @@ In norwegian, the tens go as such:<br>
 
 As such, you would write "55" as femtifem, "44" as førtifire, etc. Unlike in Italian, no special rules are applied to "1" and "8" digits (which thankfully made this app easier to code).
 
-Just like English and Italian, the teens (10 - 20), are unique from other numbers, however at least the Norwegian teens somewhat resemble english teens (elleve is elleven, seksten is sixteen, ect), unlike Italian teens! 
+Just like English and Italian, the teens (10 - 20), are unique from other numbers, however at least the Norwegian teens somewhat resemble English teens (elleve is elleven, seksten is sixteen, ect), unlike Italian teens! 
 
 Build and run the project to learn 10-20 and 100!
