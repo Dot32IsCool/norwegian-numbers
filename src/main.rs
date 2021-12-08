@@ -47,6 +47,8 @@ fn int_to_norsk_nodanglybits(number: i32) -> String {
 fn main() {
 	println!("\n\n\n{}", "Practice Norwegian numbers!".bright_yellow().bold());
 	println!("{}", "(To quit, press ctrl+c)".bright_red());
+
+	let mut turns: u32 = 0;
 	loop {
 		let number = rand::thread_rng().gen_range(1, 101);
 		println!("{} {} {}", "Write".bright_cyan(), number, "in Norwegian:".bright_cyan());
@@ -63,7 +65,9 @@ fn main() {
 			println!("{}, but dont forget the accents! ({})", "Correct".bright_yellow(), int_to_norsk(number).bright_green());
 		} else {
 			println!("{}, it was {}", "Not correct".bright_red(), int_to_norsk(number).bright_green());
+			println!("{} {} {}", "You got".bright_green(), turns, "correct!".bright_green());
 			break;
 		}
+		turns += 1;
 	}
 }
