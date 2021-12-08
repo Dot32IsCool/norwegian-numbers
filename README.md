@@ -24,7 +24,7 @@ Counting to ten:
 Similarily to English, numbers larger than 20 are written as [ten][unit], eg fifty five. <br>
 Unlike in English however, Norwegian doesnt seperate the words; fifty five would instead be fiftyfive.
 
-In norwegian, the tens go as such:
+In norwegian, the tens go as such:<br>
 20. tjue <br>
 30. tretti <br>
 40. førti<br>
