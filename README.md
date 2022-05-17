@@ -1,5 +1,5 @@
 # Norwegian number practice
-A Norwegian version of [Italian number practice](https://github.com/Dot32IsCool/italian-numbers), this time build in rust!
+A Norwegian version of [Italian number practice](https://github.com/Dot32IsCool/italian-numbers), this time built in rust!
 
 <img width="697" alt="Screen Shot 2021-12-08 at 11 38 07" src="https://user-images.githubusercontent.com/61964090/145144416-9a6995f6-0604-49fd-a226-847c3961193f.png">
 
